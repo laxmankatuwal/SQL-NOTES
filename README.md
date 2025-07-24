@@ -1,2 +1,2 @@
-# SQL-NOTES
-The SQL full course 
+# PostgreSQL-NOTES
+The PostgreSQL full course 
